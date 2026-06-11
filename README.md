@@ -1,8 +1,13 @@
 # Pipeline Forecast Dashboard
 
+Interactive CFO-style pipeline and bookings forecasting dashboard. 
+
 https://ruchikasliwal.github.io/pipeline-forecast-model/ 
 
-Interactive CFO-style pipeline and bookings forecasting dashboard.
+## Dashboard Preview
+<img width="1042" height="680" alt="Screenshot 2026-06-11 at 10 51 25 AM" src="https://github.com/user-attachments/assets/3519f243-622a-407b-98ed-5547a025fdfb" />
+
+
 
 ## Features
 - Monthly & quarterly forecast views
